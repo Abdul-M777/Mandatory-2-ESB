@@ -1,0 +1,10 @@
+{"topic":"Football","data":"Messi"}
+{"topic":"BasketBall","data":"Kobe"}
+{"topic":"Football","data":"Salah"}
+{"topic":"Football","data":"Salah"}
+{"topic":"Football","data":"Kante"}
+{"topic":"Football","data":"Hazard"}
+{"topic":"BaseBall","data":"Ortiz"}
+{"topic":"Basket","data":"Lebron"}
+{"topic":"Baseball","data":"Jun"}
+{"topic":"Football","data":"Ronaldinho"}
