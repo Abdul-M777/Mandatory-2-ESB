@@ -16,9 +16,9 @@ app.use(express.json())
 
 
 axios.post('http://localhost:8080/football', {
-    id: "5",
-    topic: "Football",
-    format: "tsv",
+    id: "7",
+    topic: "Harry",
+    format: "xml",
 }).then(function (response) {
   console.log(response.data)
 }).catch(function (error) {
